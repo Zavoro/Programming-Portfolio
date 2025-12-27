@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <RootNamespace>Hello_World</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Data Types Quiz.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Data Types\Data Types Quiz.cs" />
+  </ItemGroup>
+
+</Project>
