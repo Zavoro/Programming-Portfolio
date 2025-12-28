@@ -1,5 +1,8 @@
 This is my C# Interactive Systems Project
 
+The main project can be accessed via
+Hello World -> Projects -> Interactive Systems Project
+
 This project contains:
   Main Menu
   Number Guessing Game
