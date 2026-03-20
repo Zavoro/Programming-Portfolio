@@ -4,10 +4,10 @@ The main project can be accessed via
 Hello World -> Projects -> Interactive Systems Project
 
 This project contains:
-  Main Menu
-  Number Guessing Game
-  Dice Rolling Game
-  Password Checker
+  Main Menu,
+  Number Guessing Game,
+  Dice Rolling Game,
+  Password Checker,
 
 
 This project showcases:
